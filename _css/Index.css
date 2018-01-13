@@ -1,0 +1,48 @@
+body{
+	background-color:#D8D8D8;
+	width: 800px;
+	margin: auto;
+	font-family: arial;
+}
+
+h1 {
+	text-align: center;
+	background: #323232;
+	color: #DCDEDA;
+}
+
+p.Vorwort {
+	background: #FFFFFF;
+	color: black;
+	padding: 10px;
+}
+
+h2 {
+	background: #323232;
+	text-align: left;
+	color: #FCFAEF;
+	padding: 5px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 400px;
+	height: 125px;
+	background: white;
+}
+
+td {
+	table-layout: fixed;
+	padding-left: 10px;
+	border: thin solid #323232;
+}
+
+tr.headline {
+	background: #323232;
+	color: #F5F8F6;
+}
+
+a:link {
+	color: green;
+}
+
